@@ -140,7 +140,7 @@ function App() {
                 </div>
               </div>
               <h1 className="text-4xl font-bold bg-gradient-to-r from-indigo-600 to-blue-600 bg-clip-text text-transparent mb-4">
-                Visual Search Explorer
+                Visual Product Matcher
               </h1>
               <p className="text-gray-600 animate-pulse">Loading experience...</p>
             </div>
@@ -157,7 +157,7 @@ function App() {
                 </div>
               </div>
               <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 to-blue-600 bg-clip-text text-transparent mb-5 transition-all duration-500 hover:scale-105 inline-block">
-                Visual Search Explorer
+                Visual Product Matcher
               </h1>
               <p className="text-gray-600 max-w-xl mx-auto text-base mb-2">
                 Upload an image or provide a URL to discover similar products.
