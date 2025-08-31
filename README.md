@@ -93,7 +93,7 @@ No additional environment variables required - the app runs entirely client-side
 
 The application is deployed on Vercel with automatic deployments from the main branch.
 
-**Live Demo**: [Visual Product Matcher](https://visual-product-matcher.vercel.app)
+**Live Demo**: [Visual Product Matcher](https://visual-product-matcher-five.vercel.app/)
 
 ### Deploy Your Own
 1. Fork the repository
